@@ -5,4 +5,4 @@ Problem-1:  Predict the Road Sign - HERE (https://www.hackerearth.com/problem/ma
 
 Problem-2:  Predict the Segment - HOTSTAR (https://www.hackerearth.com/problem/machine-learning/predict-the-segment-hotstar/)
 
-These solutions helped me to qualify for the Zonal Rounds :)
+These solutions made me qualify the Online Screening Rounds. Will be participating in zonal round. :)
